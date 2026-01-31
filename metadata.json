@@ -1,0 +1,7 @@
+{
+  "name": "MedLink Pro - Clinic Management System",
+  "description": "A sophisticated patient management platform for doctors to track history, lab results, radiology, and clinical notes with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
